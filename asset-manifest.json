@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApoloClient/static/css/main.c51d53ca.css",
+    "main.js": "/ApoloClient/static/js/main.f6fd0c3d.js",
+    "static/js/787.f66b9f8f.chunk.js": "/ApoloClient/static/js/787.f66b9f8f.chunk.js",
+    "index.html": "/ApoloClient/index.html",
+    "main.c51d53ca.css.map": "/ApoloClient/static/css/main.c51d53ca.css.map",
+    "main.f6fd0c3d.js.map": "/ApoloClient/static/js/main.f6fd0c3d.js.map",
+    "787.f66b9f8f.chunk.js.map": "/ApoloClient/static/js/787.f66b9f8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51d53ca.css",
+    "static/js/main.f6fd0c3d.js"
+  ]
+}
